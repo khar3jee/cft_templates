@@ -1,4 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+## used for Jekyll/GitHub pages
+#_site/
+#.sass-cache/
+#.jekyll-cache/
+#.jekyll-metadata
+## Add anything that you don't want committed
